@@ -30,18 +30,24 @@ task-manager/
 ├── public/
 
 │ ├── index.html
+
 │ └── ...
 
 │
 ├── src/
 
 │ ├── App.css
+
 │ ├── App.js
+
 │ ├── index.js
+
 │ ├── components/
 
 │ │ └── Task.js
+
 │ └── ...
+
 │
 └── package.json
 
